@@ -6,7 +6,7 @@ Universal Export is a garments manufacturing company operating out of Southampto
 ## Aim of the project:
 The aim of project is to produce two reports which would help the management team in deciding how it should invest in its manufacturing capacity going forward, and decide how to restructure the sales team after a recent resignation of former head of sales.
 
-Report 1: Report for shareholders giving an overview of business operation in 2022
+Report 1: Report for shareholders giving an overview of business operation in 2022 \
 Report 2: Report providing salespeople performance
 
 **Note: Both reports are available in one pdf file.**
