@@ -1,4 +1,4 @@
-# Title: Power BI Project: Universal Exports:
+# Power BI Project: Universal Exports:
 
 ## Background to problem statement:
 Universal Export is a garments manufacturing company operating out of Southampton, United Kingdom. It manufactures various types of plain, unmarked, unlabelled clothing for retailers, wholesalers, and others such as t-shirt, hoodies, jacket, etc. Retailers purchase the blank garment from Universal Export and put on their own logo or design before selling them at a markup price.
@@ -21,13 +21,13 @@ Five datasets were provided to complete the project which are as follows:
 
 ## Key concepts/methods utilised in the project:
 
-1. Cardinality:
+1. **Cardinality**:
 	This involves establishing relationships between different data files which can be many to one, one to one, one to many or many to many.
-2. Use of DAX (Data Analysis Expressions) commands:
+2. **Use of DAX (Data Analysis Expressions) commands**:
 	DAX commands help in creating new columns and creating measures e.g profit per item from sales data.
-3. Creating measures
+3. **Creating measures**:
 	Measures work on aggragate data. It is not a calculated cloumd but it contains a specified query e.g. finding profitablity of product category.
-4. Avoiding cognitive overload on audience:
+4. **Avoiding cognitive overload on audience**:
 	Care is taken in selecting proper colour scheme, shape and keeping only relevant information so as not to overload the audience.
-5. Clutter free use of visualisation:
+5. **Clutter free use of visualisation**:
 	This means placing visualisation in a way that is easy readable and accessible to audience.
