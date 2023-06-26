@@ -9,8 +9,6 @@ The aim of project is to produce two reports which would help the management tea
 Report 1: Report for shareholders giving an overview of business operation in 2022 \
 Report 2: Report providing salespeople performance
 
-**Note: Both reports are available in one pdf file.**
-
 ## Information about Datasets:
 Five datasets were provided to complete the project which are as follows:
 1. Transactions.csv - 103,277 rows and 13 columns
